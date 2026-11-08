@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/**/*.ts": { "runtime": "@lowlighter/vercel-deno@2.9.2" }
+  }
+}
